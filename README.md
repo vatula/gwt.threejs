@@ -10,6 +10,6 @@ Although gwt.threejs preserves original logic, somehow GWT compiler generates ex
 
 ### Canvas (Context 2D) ###
 * Original three.js example “Earth” [![geometry_earth](http://mrdoob.github.com/three.js/assets/examples/07_earth.png)](http://mrdoob.github.com/three.js/examples/canvas_geometry_earth.html)
-* gwt.threejs example “Earth” [![geometry_earth](http://vatula.github.com/gwt.threejs/examples/canvas_geometry_earth/07_earth.png)](](http://vatula.github.com/gwt.threejs/examples/canvas_geometry_earth/Globe.html)
+* gwt.threejs example “Earth” [![geometry_earth](http://vatula.github.com/gwt.threejs/examples/canvas_geometry_earth/07_earth.png)](http://vatula.github.com/gwt.threejs/examples/canvas_geometry_earth/Globe.html)
 
 Sadly enought, but GWT version shows only half FPS of original version.
