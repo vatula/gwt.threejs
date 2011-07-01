@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module>
-	<inherits name="com.google.gwt.user.User"/>
-	<inherits name="com.google.common.collect.Collect"/>
-	<source path="client"/>
-	<public path="public"/>
-</module>
