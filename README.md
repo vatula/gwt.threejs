@@ -9,7 +9,7 @@ gwt.threejs contains only a small subset of all the features original library ha
 Although gwt.threejs preserves original logic, somehow GWT compiler generates extremely slow javascript code compared to original three.js.
 
 ### Canvas (Context 2D) ###
-* Original three.js example “Earth” [![geometry_earth](http://mrdoob.github.com/three.js/assets/examples/07_earth.png)](http://mrdoob.github.com/three.js/examples/canvas_geometry_earth.html)
-* gwt.threejs example “Earth” [![geometry_earth](http://vatula.github.com/gwt.threejs/examples/canvas_geometry_earth/07_earth.png)](http://vatula.github.com/gwt.threejs/examples/canvas_geometry_earth/Globe.html)
+* [gwt.threejs example “Earth”](http://vatula.github.com/gwt.threejs/examples/canvas_geometry_earth/Globe.html)
+* [Original three.js example “Earth”](http://mrdoob.github.com/three.js/examples/canvas_geometry_earth.html)
 
 Sadly enought, but GWT version shows only half FPS of original version.
