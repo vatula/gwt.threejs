@@ -1,0 +1,11 @@
+<module>
+	<inherits name="com.google.gwt.user.User"/>
+	<inherits name="com.google.gwt.resources.Resources" />
+	<inherits name="com.google.code.gwt.threejs.ThreeJs"/>
+	<inherits name="java.util.Util"/>
+	<inherits name="com.google.common.collect.Collect"/>
+	<inherits name="com.github.gwt.stats.Stats"/>
+	<source path="client"/>
+	<entry-point class="gwt.threejs.globe.client.Globe"/>
+	<set-property name="user.agent" value="safari,gecko1_8" />
+</module>
